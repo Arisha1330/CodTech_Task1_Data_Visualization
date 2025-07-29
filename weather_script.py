@@ -2,7 +2,7 @@ import requests
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-API_KEY = "030875f47503794e6fb489ff97c3570e"  # Replace this
+API_KEY = "your_API_Key_here"  # Replace this
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 cities = ["Delhi", "Mumbai", "Bangalore", "Chennai", "Kolkata"]
