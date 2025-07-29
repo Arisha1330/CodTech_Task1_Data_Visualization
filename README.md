@@ -1,8 +1,6 @@
 # CodTech_Task1_Data_Visualization
 
-## 🌦️ Weather Data Visualization
-
-## 📌 Description:
+## 🌦️ Weather Data Visualization - Description:
 This project fetches real-time weather data from the OpenWeatherMap API and visualizes it using Python’s Matplotlib. It shows temperature and humidity across Indian cities.
 
 ## 🚀 Features:
